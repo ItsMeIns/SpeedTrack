@@ -9,5 +9,4 @@
 + Темна тема з градієнтним фоном
 
   
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-05 at 11 44 13](https://github.com/ItsMeIns/SpeedTrack/assets/106601710/9ed8032b-4e1f-44f4-9e1c-e4445ae2759a)
 <img src="https://github.com/ItsMeIns/SpeedTrack/assets/106601710/9ed8032b-4e1f-44f4-9e1c-e4445ae2759a" width="300" />
